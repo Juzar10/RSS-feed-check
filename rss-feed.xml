@@ -11,7 +11,7 @@
 	>
 	<channel>
 		<title>Patrika | CMS</title>
-		<atom:link href="https://zimbea-preprod.go-vip.net/feed/?fdafds" rel="self" type="application/rss+xml" />
+		<atom:link href="https://raw.githubusercontent.com/Juzar10/RSS-feed-check/main/rss-feed.xml" rel="self" type="application/rss+xml" />
 		<link>https://zimbea-preprod.go-vip.net</link>
 		<description></description>
 		<lastBuildDate>Wed, 24 Apr 2024 04:54:33 +0000</lastBuildDate>
@@ -21,9 +21,7 @@
 		<sy:updateFrequency>
 	1	</sy:updateFrequency>
 		<generator>https://wordpress.org/?v=6.5.2</generator>
-		<site
-			xmlns="com-wordpress:feed-additions:1">220869851
-		</site>
+		<site xmlns="com-wordpress:feed-additions:1">220869851</site>
 		<item>
 			<title>आपकी बात…भारत को विकसित राष्ट्र कैसे बनाया जा सकता है ?</title>
 			<link>https://www.patrika.com/news-bulletin/your-viewhow-can-india-be-made-a-developed-nation-18627206/</link>
