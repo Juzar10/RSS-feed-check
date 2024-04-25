@@ -56,8 +56,6 @@
 			<slash:comments>0</slash:comments>
 			<media:content type="video/quicktime" expression="full" url="https://www.indiatoday.in/programme/news-today/video/will-the-global-recession-deepen-can-rate-hikes-tame-inflation-2009554-2022-10-07">
 				<media:category scheme="https://www.indiatoday.in/programme/news-today/video/will-the-global-recession-deepen-can-rate-hikes-tame-inflation-2009554-2022-10-07">India</media:category>
-				<media:text type="plain">
-				<! [CDATA[ Will the global recession deepen? Can rate hikes tame inflation? ]] > </media:text>
 				<media:rating scheme="urn:simple"> nonadult</media:rating>
 				<media:thumbnail width="107" height="82" url="https://akm-img-a-in.tosshub.com/indiatoday/images/video/202210/recession-reuters_0_1200x768.jpeg?VersionId=nEm9BcaChu1beR9Sn|50wRUl6t48.5q."/>
 			</media:content>
